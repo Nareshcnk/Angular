@@ -2,5 +2,5 @@
 
 var app=angular.module('myApp',[]).
 controller('myController',['$scope',function($scope){
-$scope.name='NareshKumar';
+$scope.name='NareshKumar Chinnaiyan';
 }]);
